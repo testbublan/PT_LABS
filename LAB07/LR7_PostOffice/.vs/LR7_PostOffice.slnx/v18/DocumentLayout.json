@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\iugrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\iugrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|d:\\repos\\pt_labs\\lab07\\lr7_postoffice\\lr7_postoffice\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8D7D3-C1EB-F6A8-8F3A-E07BCAB86B3D}|LR7_PostOffice\\LR7_PostOffice.csproj|solutionrelative:lr7_postoffice\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 134,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUgrent.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\IUgrent.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\IUgrent.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\IUgrent.cs",
+              "RelativeToolTip": "LR7_PostOffice\\IUgrent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:01:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Package.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\Package.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Package.cs",
+              "RelativeToolTip": "LR7_PostOffice\\Package.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:00:33.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Letter.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\Letter.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Letter.cs",
+              "RelativeToolTip": "LR7_PostOffice\\Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:59:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Box.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\Box.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Box.cs",
+              "RelativeToolTip": "LR7_PostOffice\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:58:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Check.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Check.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\Check.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Check.cs",
+              "RelativeToolTip": "LR7_PostOffice\\Check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:57:25.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostOffice.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\PostOffice.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\PostOffice.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\PostOffice.cs",
+              "RelativeToolTip": "LR7_PostOffice\\PostOffice.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:56:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Program.cs",
+              "RelativeDocumentMoniker": "LR7_PostOffice\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\LR7_PostOffice\\LR7_PostOffice\\Program.cs",
+              "RelativeToolTip": "LR7_PostOffice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:54:30.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,11 +26,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T14:56:24.213Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -41,7 +42,7 @@
               "RelativeDocumentMoniker": "Linear.cs",
               "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\Linear.cs",
               "RelativeToolTip": "Linear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T14:56:03.452Z",
               "EditorCaption": ""

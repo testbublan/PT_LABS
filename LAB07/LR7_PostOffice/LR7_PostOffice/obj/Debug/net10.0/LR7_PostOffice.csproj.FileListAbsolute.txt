@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\bin\Debug\net10.0\LR7_PostOffice.exe
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\bin\Debug\net10.0\LR7_PostOffice.deps.json
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\bin\Debug\net10.0\LR7_PostOffice.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\bin\Debug\net10.0\LR7_PostOffice.dll
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\bin\Debug\net10.0\LR7_PostOffice.pdb
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.sourcelink.json
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.dll
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\refint\LR7_PostOffice.dll
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.pdb
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\LR7_PostOffice.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB07\LR7_PostOffice\LR7_PostOffice\obj\Debug\net10.0\ref\LR7_PostOffice.dll

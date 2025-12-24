@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\insect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\insect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task)\\inheritance_task)\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAE36E-E5C5-5365-234B-8E00DA2F4C18}|INHERITANCE_TASK)\\INHERITANCE_TASK).csproj|solutionrelative:inheritance_task)\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insect.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Insect.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Insect.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Insect.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Insect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:43:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Reptile.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Reptile.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Reptile.cs*",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Reptile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:44:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Mammal.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Mammal.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Mammal.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:44:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Fish.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Fish.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Fish.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:43:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Bird.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Bird.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Bird.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:42:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Animal.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Animal.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Animal.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Animal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:41:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Program.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK)\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK)\\INHERITANCE_TASK)\\Program.cs",
+              "RelativeToolTip": "INHERITANCE_TASK)\\Program.cs",
+              "ViewState": "AgIAABIAAACAZmZmZmYkwCIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:40:16.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
